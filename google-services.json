@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373956236963",
+    "project_id": "paktask-84812",
+    "storage_bucket": "paktask-84812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373956236963:android:daec8bd270e178a481d116",
+        "android_client_info": {
+          "package_name": "Paktask.app.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzMBGwRlLS0DwEFrpXr1zBPOXNFwCxF_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
